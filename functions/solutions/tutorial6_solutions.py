@@ -1,4 +1,4 @@
-"""COMP1117 Tutorial 9 - Coding Practice: Functions (worked solutions).
+"""COMP1117 Tutorial 6 - Coding Practice: Functions (worked solutions).
 
 One possible solution per task. This is not the only correct answer:
 different code is fine as long as it returns the right value for normal,
@@ -6,7 +6,7 @@ boundary and unusual inputs.
 
 Run this file to check every expected result at once:
 
-    python3 tutorial9_solutions.py
+    python3 tutorial6_solutions.py
 
 It ends with "All checks passed." when every assertion holds.
 """

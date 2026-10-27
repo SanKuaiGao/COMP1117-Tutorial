@@ -1,14 +1,14 @@
-# Tutorial 9 — Coding Practice: Functions
+# Tutorial 6 — Coding Practice: Functions
 
 Turning repeated logic into functions, using parameters and return values, and
 testing each function with examples you can check by hand.
 
 ## Get started
 
-Open [`tutorial9.py`](tutorial9.py) and run it:
+Open [`tutorial6.py`](tutorial6.py) and run it:
 
 ```bash
-python3 tutorial9.py
+python3 tutorial6.py
 ```
 
 Every task starts with a placeholder value, so the file runs immediately and
@@ -191,12 +191,12 @@ Checking from the highest threshold down makes each early `return` correct.
 
 ## Answers
 
-[`solutions/tutorial9_solutions.py`](solutions/tutorial9_solutions.py) has one
+[`solutions/tutorial6_solutions.py`](solutions/tutorial6_solutions.py) has one
 possible solution per task plus a set of assertions:
 
 ```bash
 cd solutions
-python3 tutorial9_solutions.py    # prints: All checks passed.
+python3 tutorial6_solutions.py    # prints: All checks passed.
 ```
 
 Your code does not have to look like the solutions. It has to return the right

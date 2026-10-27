@@ -16,7 +16,7 @@ branch back with a Pull Request.
 | --- | --- | --- |
 | [`debugging/`](debugging/README.md) | Tutorial 3 | Read error messages, inspect values, use the VS Code debugger |
 | [`branching&merging/`](branching&merging/README.md) | Tutorial 5 | Fork, branch, commit, Pull Request, merge conflict |
-| [`functions/`](functions/README.md) | Tutorial 9 | Coding practice: parameters, return values, testing |
+| [`functions/`](functions/README.md) | Tutorial 6 | Coding practice: parameters, return values, testing |
 
 Sessions are listed in teaching order. Each folder has its own README with the
 workflow, the tasks and the expected results.
@@ -96,7 +96,7 @@ open any file and use **Run Python File**.
 | see a logic error with no error message | [`debugging/demo/marks.py`](debugging/demo/marks.py) |
 | practise debugging | [`debugging/practice/marks.py`](debugging/practice/marks.py) |
 | practise debugging with a breakpoint | [`debugging/practice/temperature.py`](debugging/practice/temperature.py) |
-| practise functions | [`functions/tutorial9.py`](functions/tutorial9.py) |
+| practise functions | [`functions/tutorial6.py`](functions/tutorial6.py) |
 
 ## Answers
 
@@ -104,7 +104,7 @@ Worked answers live in the `solutions/` folders:
 
 - [`debugging/solutions/`](debugging/solutions/) — the repaired Task 1 and Task 2
   programs, with each bug explained.
-- [`functions/solutions/tutorial9_solutions.py`](functions/solutions/tutorial9_solutions.py)
+- [`functions/solutions/tutorial6_solutions.py`](functions/solutions/tutorial6_solutions.py)
   — all seven functions plus assertions you can run.
 
 Try the task first. Reading an answer feels easy, but it teaches very little.

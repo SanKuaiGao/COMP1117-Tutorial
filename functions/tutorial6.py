@@ -1,9 +1,9 @@
-"""COMP1117 Tutorial 9 - Coding Practice: Functions.
+"""COMP1117 Tutorial 6 - Coding Practice: Functions.
 
 Open this file in VS Code and work through the tasks in order.
 Run it after each task:
 
-    python3 tutorial9.py
+    python3 tutorial6.py
 
 Every function below returns a harmless placeholder value, so the file
 always runs. Replace the placeholder with your own code, then compare the
