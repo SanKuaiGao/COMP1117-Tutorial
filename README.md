@@ -2,7 +2,7 @@
 
 Welcome to the COMP1117 Tutorial!!!👋
 
-This Repo is used for in-class demo and practice material for **COMP1117** (HKU).
+This Repo is used for in-class demo, practice material, and self-learning/revision.
 
 Every tutorial has its own folder and its own `README.md` with the workflow, the
 tasks and the expected results. This file only explains how to get the repository
