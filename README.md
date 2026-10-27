@@ -13,10 +13,9 @@ and how to read those guides.
 
 ### 1. Fork it (once)
 
-1. Open <https://github.com/gracezhou7/COMP1117-Tutorial>.
-2. Click **Fork** (top right), choose **your own account** as the owner, then
+1. Click **Fork** (top right), choose **your own account** as the owner, then
    click **Create fork**.
-3. You now have your own copy at
+2. You now have your own copy at
    `github.com/<your-username>/COMP1117-Tutorial`.
 
 You fork because you do **not** have write access to this repository. All your
@@ -62,8 +61,3 @@ If no preview appears, open the Extensions panel and install a Markdown extensio
 
 The Python examples need Python 3 only; nothing else has to be installed.
 
-## Questions
-
-Post on the Moodle forum with the **last few lines of the error message** or a
-screenshot of the terminal, plus what you expected to happen. Please do not paste
-a whole program into the forum.

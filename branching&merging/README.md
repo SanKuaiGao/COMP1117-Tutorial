@@ -1,6 +1,6 @@
-# Tutorial 5 — Advanced GitHub
+# Tutorial 5—Advanced GitHub(Branching, forking and merging
 
-Branching, forking and merging. By the end of this session you can fork a
+ By the end of this session you can fork a
 template repository, clone your fork, work on a feature branch, open a Pull
 Request, and resolve a merge conflict.
 
@@ -20,20 +20,13 @@ Request, and resolve a merge conflict.
 | **Branch** | Inside the same repository | Creates an isolated line of work from the current history | A new feature, a bug fix, an experiment — always |
 | **Fork** | GitHub account → another GitHub account | Makes your own server-side copy of someone else's repository | You have no write access to the original, e.g. this template or an open-source project |
 
-**Two workflows, one rule — never work directly on `main`:**
-
-- *In-repo branching*: everyone has write access to one shared repository, and
-  everyone creates feature branches inside it. Course group projects.
-- *Forking*: you do not have write access, so you fork → clone your fork → push
-  to your fork → open a PR back to the original. Open source, and this tutorial.
-
 ## Your task: add a greeting
 
 **Goal:** a merged Pull Request that adds one file,
 `branching&merging/greetings/<YourName>.txt`, containing one or two sentences
 about you.
 
-### 1. Fork the template
+### 1. Fork the template(you should have done this before, so just ignore)
 
 1. Open <https://github.com/gracezhou7/COMP1117-Tutorial>.
 2. Click **Fork** in the top-right corner.
@@ -46,7 +39,7 @@ You now have `github.com/<your-username>/COMP1117-Tutorial`.
 > If you skip the fork, your push is refused with `Permission denied (403)` —
 > you cannot write to the template itself.
 
-### 2. Clone your fork in VS Code
+### 2. Clone your fork in VS Code(Also ignore if you already did this)
 
 1. On **your fork**, click the green **Code** button and copy the HTTPS URL.
 2. In VS Code, with no folder open, use **Explorer → Clone Repository**
@@ -96,7 +89,7 @@ is merged.
 2. Click **+** next to your new file to stage it.
 3. Type a meaningful message, for example `Add greeting for <name>`.
    (You may use Copilot or another AI tool to draft the message — read it and
-   make sure it is accurate before you commit; you are responsible for it.)
+   make sure it is accurate before you commit. You are responsible for it!)
 4. Click **Commit**.
 5. Click **Publish Branch** to upload the branch to GitHub.
 
