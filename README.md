@@ -1,6 +1,6 @@
 # COMP1117 Tutorial
 
-In-class demo and practice material for **COMP1117** (HKU).
+This Repo is used for in-class demo and practice material for **COMP1117** (HKU).
 
 This repository is also the **template** for the Tutorial 5 GitHub exercise: you
 fork it, clone your own copy, add a file on a feature branch, and merge that
@@ -15,6 +15,7 @@ branch back with a Pull Request.
 | Folder | Session | Topic |
 | --- | --- | --- |
 | [`debugging/`](debugging/README.md) | Tutorial 3 | Read error messages, inspect values, use the VS Code debugger |
+| [`git_basics/`](git_basics/README.md) | Tutorial 4 | Version control basics: Git vs GitHub, commit, publish, clone, push, pull |
 | [`branching&merging/`](branching&merging/README.md) | Tutorial 5 | Fork, branch, commit, Pull Request, merge conflict |
 | [`functions/`](functions/README.md) | Tutorial 6 | Coding practice: parameters, return values, testing |
 
