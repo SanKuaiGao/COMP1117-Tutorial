@@ -60,6 +60,11 @@ If no preview appears, open the Extensions panel and install a Markdown extensio
 | [`git_basics/`](git_basics/README.md) | Tutorial 4 | Git and GitHub basics |
 | [`branching&merging/`](branching&merging/README.md) | Tutorial 5 | Fork, branch and Pull Request |
 | [`functions/`](functions/README.md) | Tutorial 6 | Functions practice |
+| [`strings/`](strings/README.md) | Tutorial 7 | Strings practice |
 
 The Python examples need Python 3 only; nothing else has to be installed.
+
+Tutorials 4 and 7 also have a one-page reference: the
+[Git cheat sheet](git_basics/cheatsheet.md) and the
+[string cheat sheet](strings/cheatsheet.md).
 
