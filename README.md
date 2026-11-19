@@ -61,10 +61,13 @@ If no preview appears, open the Extensions panel and install a Markdown extensio
 | [`branching&merging/`](branching&merging/README.md) | Tutorial 5 | Fork, branch and Pull Request |
 | [`functions/`](functions/README.md) | Tutorial 6 | Functions practice |
 | [`strings/`](strings/README.md) | Tutorial 7 | Strings practice |
+| [`recursion/`](recursion/basic_recursion_practices.ipynb) | Tutorial 8 | Recursion practice |
+| [`sets_dicts/`](sets_dicts/README.md) | Tutorial 9 | Sets and dictionaries practice |
 
 The Python examples need Python 3 only; nothing else has to be installed.
 
-Tutorials 4 and 7 also have a one-page reference: the
-[Git cheat sheet](git_basics/cheatsheet.md) and the
-[string cheat sheet](strings/cheatsheet.md).
+Tutorials 4, 7 and 9 also have a one-page reference: the
+[Git cheat sheet](git_basics/cheatsheet.md), the
+[string cheat sheet](strings/cheatsheet.md) and the
+[sets and dictionaries cheat sheet](sets_dicts/cheatsheet.md).
 
